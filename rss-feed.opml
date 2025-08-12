@@ -37,7 +37,7 @@
 	<outline text="4 - AppSec Newsletters" title="4 - AppSec Newsletters">
 		<outline text="KillTheNewsletter - AppSecFeed" title="KillTheNewsletter - AppSecFeed" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://kill-the-newsletter.com/feeds/g3dwsovncjsx6l21vc4v.xml"/>
 	</outline>
-	<outline text="non-github sync feeds - appsec" title="non-github sync feeds - appsec">
+	<outline text="ktfeeds - appsec" title="ktfeeds - appsec">
 		<outline text="HN | AppSec | All" title="HN | AppSec | All" description="" type="rss" version="RSS" htmlUrl="https://news.ycombinator.com/newest" xmlUrl="https://hnrss.org/newest?q=cve+OR+xss+OR+penetration+OR+bug+bounty+OR+csrf+OR+ssrf+OR+portswigger+OR+owasp+OR+rce+OR+unauthenticated+OR+vulnerability+OR+snyk+OR+appsec"/>
 	</outline>
 	</body>
